@@ -1,0 +1,19 @@
+|_   _|__   __| | ___ | |   (_)___| |_ 
+  | |/ _ \ / _` |/ _ \| |   | / __| __|
+  | | (_) | (_| | (_) | |___| \__ \ |_ 
+  |_|\___/ \__,_|\___/|_____|_|___/\__|
+
+\x :: mark item as done      \w :: toggle item wait/unwait
+\m :: move item(s) to DONE   \M :: insert monthly tasks (edit in ~/.vimrc)
+___________
+|| Today ||
+-----------
+X [project-x] this was finished and marked with `\x` another task (2025-12-16)
+
+>>> [hr] apply for annual leave --> go to beach!
+>> [inbox] example task (edit me)
+> [future] use more or less '>' to indicate urgency
+
+
+== DONE ===============================
+X [example] finished something (2025-01-01)
